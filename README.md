@@ -12,8 +12,8 @@ With a strong problem-solving mindset and a collaborative approach, I am passion
 - Cloud & Deployment: AWS (EC2, S3), Docker, Git, GitHub
 - Programming Languages: Python, Java, SQL, JavaScript
 - Tools: Postman (API Testing), Git, GitHub, AWS Services
-- 
-- Core Strengths:
+
+Core Strengths:
   - Building secure and scalable full stack web applications
   - API development and database integration
   - Cloud-based deployment and version control (Git/GitHub)
