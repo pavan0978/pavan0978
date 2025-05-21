@@ -1,7 +1,9 @@
 # 👋 Hi, I’m @pavan0978
 
 ## 🌟 About Me
-I am currently pursuing a Master of Science in Computer Science at Bradley University (GPA: 3.81/4.0), with 1.5 years of experience as a Full Stack Developer and Software Engineer. I specialize in designing, developing, and deploying scalable and efficient software solutions. Proficient in Python, Java, JavaScript, HTML/CSS, React, Spring Boot, SQL, and cloud technologies like AWS, I thrive in developing robust applications that enhance user experience and system performance.
+🎓 I recently completed my Master of Science in Computer Science at Bradley University, graduating with a GPA of 3.75/4.0.
+
+As a Full Stack Developer and Software Engineer, I bring 1.5 years of professional experience in designing, developing, and deploying scalable software solutions. My expertise lies in Python-based full stack development, supported by strong frontend and backend skills, and hands-on experience with cloud infrastructure.
 
 With a strong problem-solving mindset and a collaborative approach, I am passionate about leveraging technology to drive innovation and business growth. My goal is to contribute as a leading Full Stack Developer, creating high-impact solutions that enhance user experiences and system performance.
 
