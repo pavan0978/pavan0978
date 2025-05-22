@@ -5,6 +5,8 @@
 
 As a Full Stack Developer and Software Engineer, I bring 1.5 years of professional experience in designing, developing, and deploying scalable software solutions. My expertise lies in Python-based full stack development, supported by strong frontend and backend skills, and hands-on experience with cloud infrastructure.
 
+🏆 I was honored with the 2024 Best Software Engineering Project Award for developing an Academic Analytics System that empowers universities with data-driven decision-making capabilities.
+
 With a strong problem-solving mindset and a collaborative approach, I am passionate about leveraging technology to drive innovation and business growth. My goal is to contribute as a leading Full Stack Developer, creating high-impact solutions that enhance user experiences and system performance.
 
 ## 🛠️ Technical Skills
